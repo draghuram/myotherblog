@@ -20,8 +20,8 @@ experiment with. As far as I know, this is the first time any one used
 K'nex to build such a model. 
 
 The result can be seen in the following Youtube videos. We have
-displayed the model in local Makerfaires and it has attracted the
-attention of children and adults alike. Enjoy!
+displayed the model in local Makerfaires and it has delighted children
+and adults alike. Enjoy! 
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/JTh_dskHzuA" frameborder="0"
