@@ -11,7 +11,7 @@ one appeared in the *Boys Mechanic* magazine in 1913. I
 noticed it in a book I borrowed from our local library. The
 book was a compilation of few such articles from the *Boys Mechanic*
 magazines. You can find the article 
-[here]({{site.url}}{{site.baseurl}}/assets/boy-mechanic-book-1-1913-how-to-make-a-wondergraph-extract.pdf)
+[here]({{site.url}}{{site.baseurl}}/assets/boy-mechanic-book-1-1913-how-to-make-a-wondergraph-extract.pdf).
 
 Now, the original instructions use wood as the building material but I
 wanted to build it with [K'nex](http://www.knex.com/). My first
