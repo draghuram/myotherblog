@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "K'nex Pantograph
+title:  "K'nex Pantograph"
 date:   2016-06-17
 categories: knex pantograph maker
 ---
